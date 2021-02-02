@@ -1,7 +1,7 @@
 # Introduction
 [![Build Status](https://travis-ci.org/dannyp11/han-gps.svg?branch=master)](https://travis-ci.org/dannyp11/han-gps)
 
-[Presentation Slides](https://drive.google.com/file/d/0B5QKnYKLy6kWUWltWnhmTmNBMTQ/view?usp=sharing)
+### [Presentation Slides](https://drive.google.com/file/d/0B5QKnYKLy6kWUWltWnhmTmNBMTQ/view?usp=sharing)
 
 Hillary & Norgay GPS device is a portable device that supports tracking nearest 
 devices and provides functionality that alerts other devices in its range if it figures out that other deivces are too far or user presses panic button.
